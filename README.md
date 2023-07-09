@@ -7,5 +7,7 @@
 - ⚡ Fun fact: I was destined to be both a gamer and a developer.
 
 💻 Tech Stack & Stats:
-C# C/C++
-UNITY UNREAL
+-C# 
+-C/C++
+-UNITY
+-UNREAL
