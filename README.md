@@ -5,3 +5,7 @@
 - 📫 Need to send a carrier pigeon? Reach me at moledilli@gmail.com
 - 😄 My script in this world is written for: He/Him**
 - ⚡ Fun fact: I was destined to be both a gamer and a developer.
+
+💻 Tech Stack & Stats:
+C# C/C++
+UNITY UNREAL
