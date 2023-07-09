@@ -6,8 +6,8 @@
 - 😄 My script in this world is written for: He/Him**
 - ⚡ Fun fact: I was destined to be both a gamer and a developer.
 
-💻 Tech Stack & Stats:
--C# 
--C/C++
--UNITY
--UNREAL
+💻 Tech Stack & Stats:              
+  -C#                                        
+  -C/C++                          
+  -UNITY                          
+  -UNREAL                          
