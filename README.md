@@ -6,8 +6,8 @@
 - 📫 Need to send a carrier pigeon? Reach me at moledilli@gmail.com
 
 💻 Tech Stack & Stats:              
-  -C#                                        
+  -C#
   -C/C++                          
-  -UNITY                          
-  -UNREAL
-  -Blender
+  -Unity                      
+  -Unreal Engine                  
+  -Blender                           
